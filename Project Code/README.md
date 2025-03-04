@@ -3,11 +3,8 @@
 ## Setup and run
 to setup this project, run the following commands on your terminal
 
-1. to clone the project
-```bash
-git clone https://github.com/ShivNakil/Blog-App-.git
-```
-2. navigate to the project directory
+
+1. navigate to the project directory
 ```bash
 cd Blog-App-
 ```
@@ -24,7 +21,6 @@ npm install
 ```bash
 node index.js
 ```
-
 
 5. navigate to the client folder
 ```bash
